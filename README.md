@@ -1,1 +1,3 @@
-﻿# AmazonIndiaScraper
+﻿﻿# AmazonIndiaScraper
+
+Amazon.in Data Scraper
